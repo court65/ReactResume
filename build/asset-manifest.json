@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactResume/static/css/main.c60336fd.css",
+    "main.js": "/ReactResume/static/js/main.55f093d7.js",
+    "static/media/Ken.jpg": "/ReactResume/static/media/Ken.b6da4249e919bbc95cc9.jpg",
+    "static/media/Ben.jpg": "/ReactResume/static/media/Ben.18701fa1e32358a76bff.jpg",
+    "static/media/Penguin-post-login.png": "/ReactResume/static/media/Penguin-post-login.4560388a4c6211a87797.png",
+    "static/media/Court.jpg": "/ReactResume/static/media/Court.72e9c70c8f4886bbe0d2.jpg",
+    "index.html": "/ReactResume/index.html",
+    "main.c60336fd.css.map": "/ReactResume/static/css/main.c60336fd.css.map",
+    "main.55f093d7.js.map": "/ReactResume/static/js/main.55f093d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60336fd.css",
+    "static/js/main.55f093d7.js"
+  ]
+}
